@@ -1,0 +1,95 @@
+body{
+    background-color: rgb(0, 0, 0);
+    background-image: url(./brain.jpg);
+    background-repeat: no-repeat;
+    background-size: 1500px;
+}
+#f{
+    height:40px;
+    width: 500px;
+    
+    margin-left: 800px;
+    margin-top: 150px;
+   
+  
+    text-align: center;
+    
+
+}  
+
+#k{
+    color: rgb(2, 3, 4);
+    text-align:justify;
+    margin-left: -580px;
+    margin-top: 0px;
+    font-size: x-large;
+    
+} 
+#d{
+    color: black;
+    margin-top: -130px;
+    margin-left: -620px;
+
+}
+#o{
+    color: black;
+
+    margin-left: -1320px;
+    margin-top: -10px;
+    text-decoration:;
+
+}
+#m{
+    height: 20px;
+}
+#y{
+    color: black;
+    margin-left: -1400px;
+}
+#i{
+    color: black;
+    margin-left: -1400px;
+    font-size: x-large;
+    
+}
+#p{  margin-top: 130px;
+     margin-left: -620px;
+     color: black;
+}
+
+#ol{
+margin-top: -609px;
+margin-left: 170px;
+}
+#lo{
+    margin-top: 20px;
+}
+#ll{
+    margin-left: 350px;
+    margin-top: -25px;
+}
+#n1{
+    border: 2px solid black;
+height: 25px;
+border-radius: 5px;
+
+}
+#m{  border: 2px solid black;
+    height: 25px;
+    background: transparent;
+    border-radius: 5px;
+
+
+}
+#z{
+    border: 2px solid black;
+    height: 25px;
+    background: transparent;
+    border-radius: 5px;
+}
+#m:hover{
+    background: linear-gradient(45deg,rgb(87, 227, 12),rgb(12, 235, 12),rgb(134, 236, 8));
+}
+#z:hover{
+    background: linear-gradient(45deg,rgb(244, 3, 3),rgb(231, 81, 6),rgb(244, 0, 0));
+}
